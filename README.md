@@ -14,3 +14,17 @@ In this project, I delved into the rainfall dataset sourced from the Australian 
 
 Completing this project solidified my understanding of data preprocessing, classification techniques, and model evaluation. It served as a practical application of myy newly acquired skills in a real-world context.
 
+# Machine Learning with Python - `Coursera`
+Project report based on what I learned from Coursera's Machine Learning with Python.
+
+
+
+Skills I acquired were:
+- Machine Learning
+- Regression
+- Hierarchical Clustering
+- Classification
+- SciPy and Scikit-learn, among others
+
+
+
